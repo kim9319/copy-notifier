@@ -52,7 +52,7 @@ No Python installation required.
    ClipboardNotifier.exe
    ```
 
-3.unzip
+3. unzip
 4. Double-click to run.
 
 5. The application will appear in the Windows System Tray.
