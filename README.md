@@ -42,11 +42,9 @@ No Python installation required.
 
 1. Visit the Releases page:
 
-   **Replace with your repository link after publishing**
+   **go to (click this link**
 
-   ```
-   https://github.com/YOUR_USERNAME/Clipboard-Notifier/releases
-   ```
+  https://github.com/kim9319/copy-notifier/releases/tag/1
 
 2. Download:
 
@@ -54,9 +52,10 @@ No Python installation required.
    ClipboardNotifier.exe
    ```
 
-3. Double-click to run.
+3.unzip
+4. Double-click to run.
 
-4. The application will appear in the Windows System Tray.
+5. The application will appear in the Windows System Tray.
 
 ✅ No Python required
 
@@ -145,11 +144,9 @@ Clipboard Notifier 是一个使用 Python 与 Tkinter 开发的 Windows 剪贴�
 
 1. 打开 Releases 页面：
 
-   **发布后请替换为你的仓库地址**
+   **点击网页**
 
-   ```
-   https://github.com/YOUR_USERNAME/Clipboard-Notifier/releases
-   ```
+https://github.com/kim9319/copy-notifier/releases/tag/1
 
 2. 下载：
    ```
