@@ -32,6 +32,50 @@ It detects copied text, images, files, folders, and multiple file selections, th
 The application also supports custom hotkeys, dark/light themes, multilingual UI, startup options, and system tray integration.
 
 ---
+---
+
+## 📦 Installation
+
+### Option 1: Download EXE (Recommended)
+
+No Python installation required.
+
+1. Visit the Releases page:
+
+   **Replace with your repository link after publishing**
+
+   ```
+   https://github.com/YOUR_USERNAME/Clipboard-Notifier/releases
+   ```
+
+2. Download:
+
+   ```
+   ClipboardNotifier.exe
+   ```
+
+3. Double-click to run.
+
+4. The application will appear in the Windows System Tray.
+
+✅ No Python required
+
+✅ No setup required
+
+✅ Ready to use
+
+---
+
+
+
+Generated executable:
+
+```text
+dist/
+└── clipboard_notifier.exe
+```
+
+---
 
 ## ✨ Features
 
@@ -131,50 +175,7 @@ The application saves:
 - Notification preference
 - Shortcut configuration
 
----
 
-## 📦 Installation
-
-### Option 1: Download EXE (Recommended)
-
-No Python installation required.
-
-1. Visit the Releases page:
-
-   **Replace with your repository link after publishing**
-
-   ```
-   https://github.com/YOUR_USERNAME/Clipboard-Notifier/releases
-   ```
-
-2. Download:
-
-   ```
-   ClipboardNotifier.exe
-   ```
-
-3. Double-click to run.
-
-4. The application will appear in the Windows System Tray.
-
-✅ No Python required
-
-✅ No setup required
-
-✅ Ready to use
-
----
-
-
-
-Generated executable:
-
-```text
-dist/
-└── clipboard_notifier.exe
-```
-
----
 
 ## 📚 Dependencies
 
@@ -195,35 +196,12 @@ pip install keyboard pillow pyperclip pystray
 
 ### Notification Popup
 
-screenshots/notification.png
+<img width="306" height="47" alt="image" src="https://github.com/user-attachments/assets/1f6d7826-36af-42f9-a5c6-f640c24f9df6" />
 
 ### Clipboard History
 
-screenshots/history.png
+<img width="877" height="633" alt="image" src="https://github.com/user-attachments/assets/62c1ba11-e43d-4f52-a019-0f5feea598d3" />
 
----
-
-## 🔗 Useful Links
-
-- [Python](https://www.python.org/)
-- https://docs.python.org/3/library/tkinter.html
-- [Pillow](https://pillow.readthedocs.io/)
-- https://github.com/boppreh/keyboard
-- https://github.com/asweigart/pyperclip
-- https://github.com/moses-palmer/pystray
-- [PyInstaller](https://pyinstaller.org/)
-
----
-
-## 🛠 Built With
-
-- Python
-- Tkinter
-- Pillow
-- Keyboard
-- Pyperclip
-- PyStray
-- Windows API (ctypes)
 
 ---
 
@@ -253,6 +231,46 @@ Clipboard Notifier 是一个使用 Python 与 Tkinter 开发的 Windows 剪贴�
 当用户复制文本、图片、文件、文件夹或多个文件时，程序会自动检测内容、弹出通知，并保存到历史记录中，方便后续查看与恢复。
 
 同时支持系统托盘、深浅色主题、多语言界面、自定义快捷键以及开机自启动。
+
+---
+
+## 📦 安装方法
+
+### 方法一：下载 EXE（推荐）
+
+无需安装 Python。
+
+1. 打开 Releases 页面：
+
+   **发布后请替换为你的仓库地址**
+
+   ```
+   https://github.com/YOUR_USERNAME/Clipboard-Notifier/releases
+   ```
+
+2. 下载：
+
+   ```
+   ClipboardNotifier.exe
+   ```
+
+3. 双击运行即可。
+
+4. 程序将在系统托盘中运行。
+
+✅ 无需安装 Python
+
+✅ 无需额外配置
+
+✅ 开箱即用
+
+
+
+开机自启动
+<img width="249" height="355" alt="image" src="https://github.com/user-attachments/assets/e913b866-ced5-4f83-83d2-95fd6bf686af" />
+
+点击
+
 
 ---
 
@@ -356,45 +374,6 @@ Clipboard Notifier 是一个使用 Python 与 Tkinter 开发的 Windows 剪贴�
 
 ---
 
-## 📦 安装方法
-
-### 方法一：下载 EXE（推荐）
-
-无需安装 Python。
-
-1. 打开 Releases 页面：
-
-   **发布后请替换为你的仓库地址**
-
-   ```
-   https://github.com/YOUR_USERNAME/Clipboard-Notifier/releases
-   ```
-
-2. 下载：
-
-   ```
-   ClipboardNotifier.exe
-   ```
-
-3. 双击运行即可。
-
-4. 程序将在系统托盘中运行。
-
-✅ 无需安装 Python
-
-✅ 无需额外配置
-
-✅ 开箱即用
-
-
-
-开机自启动
-<img width="249" height="355" alt="image" src="https://github.com/user-attachments/assets/e913b866-ced5-4f83-83d2-95fd6bf686af" />
-
-点击
-
-
----
 
 ---
 
