@@ -10,14 +10,15 @@ A modern Windows clipboard manager with notifications, clipboard history, file &
 https://img.shields.io/badge/Python-3.10%2B-blue
 https://img.shields.io/badge/Platform-Windows-success
 https://img.shields.io/badge/License-MIT-green
+
 </div>
 
 ---
 
 ## 🌍 Language | 语言
 
-- 🇬🇧 #-english
-- 🇨🇳 #-简体中文
+- 🇬🇧 [English](#-english)
+- 🇨🇳 [简体中文](#-简体中文)
 ---
 
 # 🇬🇧 English
