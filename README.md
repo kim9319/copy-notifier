@@ -152,14 +152,18 @@ Clipboard Notifier 是一个使用 Python 与 Tkinter 开发的 Windows 剪贴�
    ```
 
 2. 下载：
+   ```
+   copy-notify.zip
+   ```
+4. 解压:
 
    ```
    ClipboardNotifier.exe
    ```
 
-3. 双击运行即可。
+5. 双击运行即可。
 
-4. 程序将在系统托盘中运行。
+6. 程序将在系统托盘中运行。
 
 ✅ 无需安装 Python
 
