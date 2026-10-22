@@ -7,10 +7,6 @@ A modern Windows clipboard manager with notifications, clipboard history, file &
 一个现代化 Windows 剪贴板管理工具，支持通知弹窗、历史记录、图片预览、文件识别、系统托盘控制、自定义快捷键等功能。
 
 
-https://img.shields.io/badge/Python-3.10%2B-blue
-https://img.shields.io/badge/Platform-Windows-success
-https://img.shields.io/badge/License-MIT-green
-
 </div>
 
 ---
@@ -30,6 +26,10 @@ Clipboard Notifier is a Windows clipboard manager built with Python and Tkinter.
 It detects copied text, images, files, folders, and multiple file selections, then displays modern popup notifications and saves them into a searchable clipboard history.
 
 The application also supports custom hotkeys, dark/light themes, multilingual UI, startup options, and system tray integration.
+
+
+
+
 
 ---
 ---
@@ -65,8 +65,8 @@ No Python installation required.
 ✅ Ready to use
 
 ---
-
-
+Right click to open the menu list
+<img width="253" height="112" alt="image" src="https://github.com/user-attachments/assets/7392f2bd-2a4e-44a8-b740-9b2fea8bea4b" />
 
 Generated executable:
 
@@ -74,6 +74,21 @@ Generated executable:
 dist/
 └── clipboard_notifier.exe
 ```
+---
+
+### 🚀 Startup Support
+<img width="297" height="351" alt="image" src="https://github.com/user-attachments/assets/2eb41e97-f6a6-40f8-a697-c5655b568e78" />
+
+
+Automatically launch with Windows.
+
+The application saves:
+
+- Theme settings
+- Language settings
+- Notification preference
+- Shortcut configuration
+
 
 ---
 
@@ -162,18 +177,7 @@ dist/
 - Start with Windows
 - Exit Application
 
----
 
-### 🚀 Startup Support
-
-Automatically launch with Windows.
-
-The application saves:
-
-- Theme settings
-- Language settings
-- Notification preference
-- Shortcut configuration
 
 
 
