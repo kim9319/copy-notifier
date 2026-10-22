@@ -64,6 +64,13 @@ No Python installation required.
 
 ✅ Ready to use
 
+
+<img width="848" height="227" alt="image" src="https://github.com/user-attachments/assets/cc6c585a-8085-448d-8088-06798c51fd64" />
+
+
+
+
+
 ---
 Right click to open the menu list
 <img width="253" height="112" alt="image" src="https://github.com/user-attachments/assets/7392f2bd-2a4e-44a8-b740-9b2fea8bea4b" />
@@ -160,6 +167,8 @@ Clipboard Notifier 是一个使用 Python 与 Tkinter 开发的 Windows 剪贴�
 
 ✅ 开箱即用
 
+
+<img width="848" height="227" alt="image" src="https://github.com/user-attachments/assets/ba50152e-1552-4e40-9be2-cd914f44f455" />
 
 <img width="315" height="170" alt="image" src="https://github.com/user-attachments/assets/64d5ede3-0883-4100-87af-51084ecde0c2" />
 右键
