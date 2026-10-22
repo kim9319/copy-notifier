@@ -5,6 +5,9 @@
 A modern Windows clipboard manager with notifications, clipboard history, file & image support, system tray controls, themes, and custom hotkeys.
 
 一个现代化 Windows 剪贴板管理工具，支持通知弹窗、历史记录、图片预览、文件识别、系统托盘控制、自定义快捷键等功能。
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 
 </div>
