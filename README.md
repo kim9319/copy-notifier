@@ -6,10 +6,10 @@ A modern Windows clipboard manager with notifications, clipboard history, file &
 
 一个现代化 Windows 剪贴板管理工具，支持通知弹窗、历史记录、图片预览、文件识别、系统托盘控制、自定义快捷键等功能。
 
+
 https://img.shields.io/badge/Python-3.10%2B-blue
 https://img.shields.io/badge/Platform-Windows-success
 https://img.shields.io/badge/License-MIT-green
-
 </div>
 
 ---
@@ -18,7 +18,6 @@ https://img.shields.io/badge/License-MIT-green
 
 - 🇬🇧 #-english
 - 🇨🇳 #-简体中文
-
 ---
 
 # 🇬🇧 English
@@ -389,6 +388,8 @@ Clipboard Notifier 是一个使用 Python 与 Tkinter 开发的 Windows 剪贴�
 
 
 开机自启动
+<img width="249" height="355" alt="image" src="https://github.com/user-attachments/assets/e913b866-ced5-4f83-83d2-95fd6bf686af" />
+
 点击
 
 
@@ -400,11 +401,13 @@ Clipboard Notifier 是一个使用 Python 与 Tkinter 开发的 Windows 剪贴�
 
 ### 通知弹窗
 
-screenshots/notification.png
+<img width="306" height="47" alt="image" src="https://github.com/user-attachments/assets/1f6d7826-36af-42f9-a5c6-f640c24f9df6" />
 
 ### 历史记录窗口
+<img width="877" height="633" alt="image" src="https://github.com/user-attachments/assets/62c1ba11-e43d-4f52-a019-0f5feea598d3" />
 
-screenshots/history.png
+
+
 
 
 
